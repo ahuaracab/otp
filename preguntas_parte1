@@ -1,0 +1,6 @@
+1.- Git un controlador de versiones y sirve para manejar versiones de documentos sin tener que crear, copiar y pegar cada vez una versión de manera manual.
+2.- Son servicios de alojamiento web para control de versiones.
+3.- El SSH es un protocolo y sirve para operar servicios de red de manera segura.
+4.- Sí, porque el SSH se genera en una carpeta para un usuario en específico de la PC o bien en el usuario root. Para una diferente PC se genera una diferente SSSH.
+5.- Es un lenguaje de marcado ligero con sintaxis de formato de texto sin formato y sirve para convertir a HTML y otros formatos archivos sin formato.
+6.- Inicializo con "git init" y configuro un proyecto con "git remote"
